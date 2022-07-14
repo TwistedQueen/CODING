@@ -1,0 +1,48 @@
+* {
+    font-size: 14px;
+  }
+  
+  
+  
+  page {
+    background: white;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0.5cm;
+    box-shadow: 0 0 0.5cm rgba(0,0,0,0.1);
+  
+  }
+  
+  page[size="A4"] {
+    width: 600px;
+    height: 730px
+  }
+  
+  .main {
+    padding: 2.5em;
+    margin: auto;
+  }
+  
+  h1{
+    text-align: center;
+  }
+  
+  .license {
+    line-height: 1.5em;
+  }
+  
+  .undertext{
+    margin-left: 15%;
+  }
+  
+  .underline{
+    margin-left: 28.5%;
+  }
+  
+  .underline2{
+    margin-left: 28.5%;
+  }
+  
+  .underline3{
+    margin-left: 28.5%;
+  }

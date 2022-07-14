@@ -1,0 +1,121 @@
+.content{
+    margin: auto;
+    border: 8px solid grey;
+    padding-bottom: .8em;
+  }
+  
+  h3{
+    width: 23.5%;
+    margin-left: 27em;
+    position: absolute;
+    background-color: white;
+  
+  }
+  .box{
+    height: 1.8em;
+    border: 1px solid;
+    margin-bottom: 1.5em;
+    border-color: #006E7F #DFDFDE #DFDFDE #DFDFDE;
+  }
+  
+  .applicant{
+    margin: auto;
+    margin-bottom: 2em;
+  }
+  
+  .vehicle{
+    width: 85%;
+    margin: auto;
+    margin-bottom: 4em;
+  }
+  
+  table.applicant, th, td {
+    border-collapse: collapse;
+       border: 1px solid #DFDFDE;
+  }
+  
+  table.vehicle, th#vh, td#vh{
+    border-collapse: collapse;
+    border: 1px solid #DFDFDE;
+  }
+  table{
+    width: 90%;
+  }
+  tr{
+    height: 2.5em;
+  }
+  
+  th, td{
+    padding: .5em;
+  }
+  
+  th{
+    background-color: #006E7F;
+    color: white;
+  }
+  
+  .col-1{
+    width: 50%;
+  }
+  
+  .blurry{
+    color: transparent;
+    text-shadow: 0 0 7px rgba(0,0,0,0.9);
+  }
+  
+  .btn{
+    width: 50%;
+    margin: auto;
+  }
+  
+  .confirm{
+    height: 3em;
+    width: 60%;
+    font-size: 16px;
+    border: none;
+    background-color: #00AFC1;
+    color: white;
+    font-weight: bold;
+    border-radius: 0.2em;
+  }
+  
+  .hoverbox{
+    width: 29.5%;
+    height: 4em;
+    border: 6px solid orange;
+    margin-top: -1%;
+    margin-left: 24%;
+    position: absolute;
+    border-radius: 0.2em;
+  }
+  
+  
+  
+  .back{
+    height: 3em;
+    width: 10%;
+    font-size: 16px;
+    border: none;
+    background-color: #00AFC1;
+    color: white;
+    font-weight: bold;
+    border-radius: 0.2em;
+  }
+  
+  .back:hover{
+    cursor: pointer;
+  }
+  
+  .home{
+    height: 3em;
+    width: 25%;
+    font-size: 16px;
+    border: none;
+    background-color: #00AFC1;
+    color: white;
+    font-weight: bold;
+    border-radius: 0.2em;
+  }
+  .home:hover{
+    cursor: pointer;
+  }
